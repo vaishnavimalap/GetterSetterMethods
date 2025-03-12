@@ -1,6 +1,8 @@
 //package Gettersettermethods;
 public class Student{
+    
     String name,address,course;
+
     int age ,id;
 //Name SET/GET
     void setName(String newName)

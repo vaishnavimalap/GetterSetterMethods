@@ -1,5 +1,6 @@
 public class Passenger1{
 
+
     String name,ticketNumber;
     int age;
 
